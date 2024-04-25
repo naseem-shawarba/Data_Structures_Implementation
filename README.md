@@ -5,6 +5,7 @@ This repository contains various data structures implemented in the C programmin
 ## Structures Included
 
 - Stack
+- Queue
 
 **More data structures will be added soon!**
   
